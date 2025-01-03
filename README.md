@@ -3,7 +3,7 @@
 This project is a `Professional Profile Website` that showcases personal achievements, skills, projects, and more in a mobile-first, multilingual format. It is designed with an emphasis on aesthetic appeal, functionality, and accessibility.
 
 ## Features
-# A. Frontend
+### A. Frontend
 - **Navigation Bar**: Responsive and user-friendly, optimized for mobile devices.
 - **Multilingual Support**: Available in Arabic, Urdu, French, and English.
 - **Skills Display**: Comprehensive display of both soft and hard skills.
@@ -14,7 +14,7 @@ This project is a `Professional Profile Website` that showcases personal achieve
 - **Search Engine Optimization (SEO)**: Optimized structure and metadata for better search visibility.
 - **Side Projects and Hackathons**: Displays additional projects and certifications.
 
-# B. Backend
+### B. Backend
 - **JavaScript Integration**: Data dynamically populated into HTML via JavaScript.
 - **JavaScript Object**: A structured representation of all website data, ensuring easy updates and readability.
 - **CSS Styling**: Aesthetic and responsive design with a harmonious color palette.

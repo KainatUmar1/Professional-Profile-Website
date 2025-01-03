@@ -33,11 +33,10 @@ This project is a `Professional Profile Website` that showcases personal achieve
 
 ## File Structure
 professional-profile/
-│
-├── index.html       # Main HTML file
-├── style.css        # CSS file for styling
-├── script.js        # JavaScript file for dynamic content
-└── README.md        # Project README file
+- index.html       # Main HTML file
+- style.css        # CSS file for styling
+- script.js        # JavaScript file for dynamic content
+- README.md        # Project README file
 
 ## Peer Review
 - **Feedback**: The design received positive feedback for its clean layout, effective use of colors, and ease of navigation.

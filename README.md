@@ -42,3 +42,6 @@ professional-profile/
 ## Peer Review
 - **Feedback**: The design received positive feedback for its clean layout, effective use of colors, and ease of navigation.
 - **Improvements Suggested**: Consider adding animations for better user interaction.
+
+## Author
+- **Kainat Umar** - *Developer of this `Professional Profile Website` using HTML/CSS and JavaScript.*
